@@ -1,0 +1,6 @@
+﻿  Wisielec.cpp
+C:\Users\pc\source\repos\Wisielec\Wisielec.cpp(842,41): warning C4101: 'e': unreferenced local variable
+C:\Users\pc\source\repos\Wisielec\Wisielec.cpp(862,41): warning C4101: 'e': unreferenced local variable
+C:\Users\pc\source\repos\Wisielec\Wisielec.cpp(1022,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pc\source\repos\Wisielec\Wisielec.cpp(957): warning C4715: 'minesweeper::run': not all control paths return a value
+  Wisielec.vcxproj -> C:\Users\pc\source\repos\Wisielec\x64\Debug\Wisielec.exe
